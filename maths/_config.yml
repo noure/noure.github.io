@@ -1,0 +1,34 @@
+layout: single
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+#theme : minimal-mistakes-jekyll
+minimal_mistakes_skin : dark
+search		      : true
+encoding	: "utf-8"
+locale: "fr-FR"
+
+# Definitions du site
+title: Mathématiques par les problèmes
+description	   : " Blog de Mathématiques par les problèmes, pour les passionnés de Maths et les curieux."
+url	     	   : http://noure.github.io
+logo		   : ./_pages/images/ico.jpg
+name : "Noureddine LABIHI"
+location : "Paris" 
+contact		   : nour.coding@gmail.com
+
+author:
+  name: "Noureddine LABIHI"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope-square"
+      url: "mailto:nour.coding@gmail.com"
+
+atom_feed:
+  hide: true
+  
+include:
+  - _pages
+
+plugins:
+  - jekyll-include-cache

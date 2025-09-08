@@ -1,0 +1,5 @@
+main:
+  - title: "Math supérieur"
+    url: /maths/superieur/
+  - title: "Science maths (BAC)"
+    url: /maths/bac/
