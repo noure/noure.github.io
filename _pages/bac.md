@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Science maths (BAC)"
-permalink: /maths/bac/
+permalink: /bac/
 pdfs:
   - title: "Élément de cours et exercices — Arithmétique"
     file: "Elément de cours et exercices Arithmétique.pdf"

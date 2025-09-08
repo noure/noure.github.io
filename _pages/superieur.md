@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Math supérieur"
-permalink: /maths/superieur/
+permalink: /superieur/
 ---
 
 Bienvenue dans la section « Math supérieur ».
