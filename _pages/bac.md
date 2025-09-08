@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Science maths (BAC)"
+title: "Sciences maths (BAC)"
 permalink: /bac/
 pdfs:
   - title: "Élément de cours et exercices — Arithmétique"
     file: "Elément de cours et exercices Arithmétique.pdf"
-  - title: "Élément de cours et exercices — Analyse: bijectivité et fonctions réciproques"
+  - title: "Élément de cours et exercices — Analyse : bijectivité et fonctions réciproques"
     file: "Element de cours et exercices d' analyse bijectivité et fonctions réciproques.pdf"
   - title: "FE01 Sommes et récurrences"
     file: "FE01 sommes et récurrences.pdf"
@@ -46,10 +46,10 @@ Bienvenue dans la section « Science maths (BAC) ».
 <!-- Menu de filtrage/accès rapide -->
 <div class="notice--primary" style="padding:1rem; margin-bottom:1rem">
   <form id="filtre-bac" onsubmit="return false;" style="display:flex; gap:.5rem; flex-wrap:wrap; align-items:center">
-    <label for="q" style="margin-right:.25rem">Rechercher:</label>
+    <label for="q" style="margin-right:.25rem">Rechercher :</label>
     <input type="search" id="q" placeholder="Titre, FE01, dérivation…" style="flex:1; min-width:220px" />
 
-    <label for="groupe" style="margin-left:.5rem">Groupe:</label>
+    <label for="groupe" style="margin-left:.5rem">Groupe :</label>
     <select id="groupe">
       <option value="">Tous</option>
       <option value="cours">Éléments de cours</option>

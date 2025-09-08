@@ -2,12 +2,12 @@
 layout: home
 title: "Mathématiques par les problèmes"
 description: "Ressources et PDF de mathématiques par Noureddine LABIHI (noure) — BAC et math supérieur."
-excerpt: "Bienvenue sur le site. Retrouvez des ressources en mathématiques : Science maths (BAC) et Math supérieur."
+excerpt: "Bienvenue sur le site. Retrouvez des ressources en mathématiques : Sciences maths (BAC) et Math supérieur."
 header:
   overlay_image: "/_pages/images/ico.jpg"
   overlay_filter: 0.3
   actions:
-    - label: "Science maths (BAC)"
+    - label: "Sciences maths (BAC)"
       url: "/bac/"
     - label: "Math supérieur"
       url: "/superieur/"
@@ -17,7 +17,7 @@ Bienvenue sur « Mathématiques par les problèmes ».
 
 Ce site propose des ressources en mathématiques, classées par niveaux :
 
-- Science maths (BAC) — fiches de cours et exercices.
+- Sciences maths (BAC) — fiches de cours et exercices.
 - Math supérieur — contenus pour classes prépas, licence, etc.
 
 Accès rapide :

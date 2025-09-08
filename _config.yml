@@ -8,7 +8,7 @@ search		      : true
 encoding	: "utf-8"
 locale: "fr-FR"
 
-# Definitions du site
+# Définitions du site
 title: Mathématiques par les problèmes
 description	   : " Blog de Mathématiques par les problèmes, pour les passionnés de Maths et les curieux."
 url	     	   : http://noure.github.io
