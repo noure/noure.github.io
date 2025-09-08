@@ -37,6 +37,10 @@ pdfs:
     file: "FE12 Calcul intégrale 3 sur 3.pdf"
   - title: "FE13 Nombres complexes"
     file: "FE13 Les nombres complexes.pdf"
+  - title: "FE15 Structures algébriques"
+    file: "FE15 Structures algèbrique.pdf"
+  - title: "FE16 Espaces vectoriels et matrices"
+    file: "FE16 Espaces vectoriels et Matrices.pdf"
 ---
 
 Bienvenue dans la section « Science maths (BAC) ».
