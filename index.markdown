@@ -15,6 +15,11 @@ header:
 
 Bienvenue sur « Mathématiques par les problèmes ».
 
+<div class="notice--warning" style="margin:1rem 0; padding:0.75rem 1rem">
+  <strong>Note :</strong> le site est en cours de construction ; certains documents PDF peuvent contenir des erreurs. 
+  N’hésitez pas à me signaler toute correction à <a href="mailto:nour.coding@gmail.com">nour.coding@gmail.com</a>.
+</div>
+
 Ce site propose des ressources en mathématiques, classées par niveaux :
 
 - Sciences maths (BAC) — fiches de cours et exercices.
