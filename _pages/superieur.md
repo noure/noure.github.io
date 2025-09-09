@@ -2,6 +2,15 @@
 layout: single
 title: "Maths supérieures"
 permalink: /superieur/
+pdfs:
+  - title: "Élément de cours et exercices — Arithmétique (sup)"
+    file: "Elément de cours et exercices Arithmétique.pdf"
+  - title: "Élément de cours et exercices — Analyse : bijectivité et fonctions réciproques (sup)"
+    file: "Element de cours et exercices d' analyse bijectivité et fonctions réciproques.pdf"
+  - title: "Éléments de cours et exercices — Dénombrement (sup)"
+    file: "Éléments de cours et exercices  Dénombrement.pdf"
+  - title: "FE15 Structures algébriques (sup)"
+    file: "FE15 Structures algèbrique.pdf"
 ---
 
 Bienvenue dans la section « Maths supérieures ».
@@ -11,4 +20,12 @@ Bienvenue dans la section « Maths supérieures ».
   Merci de signaler toute correction à <a href="mailto:nour.coding@gmail.com">nour.coding@gmail.com</a>.
 </div>
 
-Cette section rassemblera des contenus dédiés aux mathématiques de niveau supérieur (classes prépas, licence, etc.).
+<h2>Documents (Maths sup)</h2>
+
+<ul>
+{% for doc in page.pdfs %}
+  <li>
+    <a href="{{ '/assets/pdf/sup/' | append: doc.file | relative_url }}" target="_blank" rel="noopener">{{ doc.title }}</a>
+  </li>
+{% endfor %}
+</ul>
