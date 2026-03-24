@@ -1,6 +1,8 @@
 ---
 layout: single
-title: "Sciences maths (BAC)"
+title: "Sciences Maths BAC Maroc - Cours et Exercices Corrigés"
+description: "Ressources complètes pour BAC Maroc Sciences Maths : fiches de cours, exercices corrigés en analyse, algèbre, suites, dérivation, intégrales et nombres complexes."
+keywords: "bac maroc, sciences maths, exercices corrigés, cours maths, analyse, algèbre, suites, dérivation, intégrales, nombres complexes, arithmétique"
 permalink: /bac/
 pdfs:
   - title: "Élément de cours et exercices — Arithmétique"
@@ -119,3 +121,5 @@ Bienvenue dans la section « Science maths (BAC) ».
   reset.addEventListener('click', function(e){ e.preventDefault(); q.value=''; groupe.value=''; filtre(); });
 })();
 </script>
+
+
