@@ -1,8 +1,9 @@
 ---
 layout: home
-title: "Mathématiques par les problèmes"
-description: "Ressources et PDF de mathématiques par Noureddine LABIHI (noure) — BAC et maths supérieures."
-excerpt: "Bienvenue sur le site. Retrouvez des ressources en mathématiques : Sciences maths (BAC) et Maths supérieures."
+title: "Mathématiques BAC Maroc & Classes Préparatoires"
+description: "Ressources gratuites de mathématiques pour BAC Maroc Sciences Maths et Classes Préparatoires MPSI/MP. Cours, exercices corrigés, fiches et annales par Noureddine LABIHI."
+excerpt: "Cours et exercices corrigés pour BAC Maroc Sciences Maths et Classes Préparatoires. Algèbre, Analyse, Géométrie, Probabilités."
+keywords: "mathématiques, bac maroc, sciences maths, classes préparatoires, MPSI, MP, cours gratuits, exercices corrigés"
 header:
   overlay_image: "/_pages/images/ico.jpg"
   overlay_filter: 0.3
@@ -33,3 +34,5 @@ Accès rapide :
 Derniers articles :
 
 Les billets récents s’affichent ci‑dessous automatiquement (layout « home » du thème Minimal Mistakes).
+
+
