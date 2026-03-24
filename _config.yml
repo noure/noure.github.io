@@ -2,23 +2,43 @@ layout: single
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
-#theme : minimal-mistakes-jekyll
-minimal_mistakes_skin : dark
-search		      : true
-encoding	: "utf-8"
+minimal_mistakes_skin: dark
+search: true
+encoding: "utf-8"
 locale: "fr-FR"
 
+# Google Search Console Verification
+google_site_verification: "YM77L9dBEOI1W9JVgI1QF3deGDkjlUD5A3heu5rf4f4"
+
 # Définitions du site
-title: Mathématiques par les problèmes
-description	   : " Blog de Mathématiques par les problèmes, pour les passionnés de Maths et les curieux."
-url	     	   : http://noure.github.io
-logo		   : ./_pages/images/ico.jpg
-name : "Noureddine LABIHI"
-location : "Paris" 
-contact		   : nour.coding@gmail.com
+title: "Mathématiques par les problèmes"
+subtitle: "BAC Maroc Sciences Maths & Classes Préparatoires"
+description: "Ressources de mathématiques pour BAC Maroc Sciences Maths et Classes Préparatoires MPSI/MP. Cours, exercices corrigés, problèmes et annales par Noureddine LABIHI."
+url: "https://noure.github.io"
+baseurl: ""
+logo: ./_pages/images/ico.jpg
+name: "Noureddine LABIHI"
+location: "Paris"
+contact: nour.coding@gmail.com
+
+# SEO Keywords
+keywords: "mathématiques, bac maroc, sciences maths, classes préparatoires, MPSI, MP, cours maths, exercices corrigés, algèbre, analyse, géométrie, probabilités"
+
+# Open Graph / Social Sharing
+og_image: "/_pages/images/ico.jpg"
+twitter:
+  username: noure
+  card: summary_large_image
+social:
+  type: Person
+  name: Noureddine LABIHI
+  links:
+    - "https://github.com/noure"
 
 author:
   name: "Noureddine LABIHI"
+  bio: "Passionné de mathématiques, je partage des ressources pour BAC Maroc et Classes Préparatoires"
+  avatar: "/_pages/images/ico.jpg"
   links:
     - label: "Email"
       icon: "fas fa-envelope-square"
@@ -29,7 +49,7 @@ author:
 
 atom_feed:
   hide: true
-  
+
 include:
   - _pages
 
@@ -37,3 +57,5 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
+
+
