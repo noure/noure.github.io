@@ -1,4 +1,21 @@
+# Robots.txt pour noure.github.io
+# Site de mathématiques - BAC Maroc Sciences Maths & Classes Préparatoires
+
 User-agent: *
 Allow: /
 
+# Autoriser l'indexation complète
+Allow: /_pages/
+Allow: /bac/
+Allow: /superieur/
+Allow: /assets/
+
+# Bloquer les fichiers système
+Disallow: /.git/
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+
+# Sitemap
 Sitemap: https://noure.github.io/sitemap.xml
+
+
