@@ -1,6 +1,8 @@
 ---
 layout: single
-title: "Maths supérieures"
+title: "Maths Supérieures - Classes Préparatoires MPSI/MP"
+description: "Cours et exercices pour classes préparatoires MPSI/MP : arithmétique, analyse, dénombrement, structures algébriques. Ressources pour concours grandes écoles."
+keywords: "classes préparatoires, MPSI, MP, maths supérieures, cours prépa, exercices corrigés, arithmétique, analyse, dénombrement, structures algébriques"
 permalink: /superieur/
 pdfs:
   - title: "Élément de cours et exercices — Arithmétique (sup)"
@@ -29,3 +31,4 @@ Bienvenue dans la section « Maths supérieures ».
   </li>
 {% endfor %}
 </ul>
+
